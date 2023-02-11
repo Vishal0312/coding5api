@@ -1,0 +1,24 @@
+{
+  "name": "coding5api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal0312/coding5api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal0312/coding5api/issues"
+  },
+  "homepage": "https://github.com/Vishal0312/coding5api#readme",
+  "dependencies": {
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
+}
